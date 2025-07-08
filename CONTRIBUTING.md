@@ -35,7 +35,7 @@ year_published: 2009
 summary: >
   (100–150 word summary here)
 ````
-Here's the YAML-formatted output for just the **Grade 6** books:
+Here's the YAML-formatted output used so far:
 
 ```yaml for the data here
 - grade: 6
