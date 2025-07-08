@@ -31,8 +31,7 @@ grade_level: 7
 genre: Historical fiction
 themes: Friendship, resilience
 year_published: 2009
-summary: >
-  (100–150 word summary here)
+summary:   (100–150 word summary here)
 
 ## Get Inspired
 Browse these similar projects to see good formatting and tone:
