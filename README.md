@@ -85,7 +85,15 @@ Young Tiffany Aching, a shepherd's daughter in the quiet hills of the Chalk, had
 
 ## Contributing
 
-If you'd like to help write summaries or add books (especially public domain titles), feel free to open a PR. Please keep summaries original and under 150 words. Look at other educational repos such as 
+If you'd like to help write summaries or add books (especially public domain titles), feel free to open a PR. Please keep summaries original and under 150 words. 
+
+## 🔍 See Also: Related Projects
+
+This project is inspired by a broader community of open reading projects. If you're looking to explore or contribute to similar efforts, check out:
+
+- [AustinT/book-summaries](https://github.com/AustinT/book-summaries) – Short, clear summaries of non-fiction books. Great for tone and structure reference.
+- [compsecmonkey/Reading-List](https://github.com/compsecmonkey/Reading-List) – Categorized reading list maintained directly in the README with notes and themes.
+- [alexpeterhall/reading-list](https://github.com/alexpeterhall/reading-list) – A personal reading log in structured JSON, useful for data-focused educational tools.
 
 ---
 
