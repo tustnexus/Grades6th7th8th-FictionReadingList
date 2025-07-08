@@ -6,15 +6,15 @@ THE PARKER INHERITANCE Varian Johnson
 
 
 
-→Mystery
+\* Mystery
 
 
 
-→PUZZL-ing
+\* PUZZL-ing
 
 
 
-→When Candace and her mom move into her late grandmother's old house, she stumbles upon a mysterious letter, with a clue to the location of a lost fortune. Will Candace be able to put the pieces together and solve this mystery?
+\* When Candace and her mom move into her late grandmother's old house, she stumbles upon a mysterious letter, with a clue to the location of a lost fortune. Will Candace be able to put the pieces together and solve this mystery?
 
 
 
@@ -22,15 +22,15 @@ AMERICAN BORN CHINESE Gene Luen Yang
 
 
 
-→ Graphic novel
+\*  Graphic novel
 
 
 
-→Action-packed fable with a surprise twist
+\* Action-packed fable with a surprise twist
 
 
 
-→Three stories that answer:
+\* Three stories that answer:
 
 
 
@@ -46,15 +46,15 @@ Orson Scott Card
 
 
 
-→ Science fiction
+\*  Science fiction
 
 
 
-→ Great game
+\*  Great game
 
 
 
-→ Ender is chosen by the military to fly to a space station to practice battle simulations against an invading force of bug-like aliens. But Battle School is hard enough to survive on its own.
+\*  Ender is chosen by the military to fly to a space station to practice battle simulations against an invading force of bug-like aliens. But Battle School is hard enough to survive on its own.
 
 
 
@@ -66,15 +66,15 @@ Elizabeth George Speare
 
 
 
-→American history
+\* American history
 
 
 
-→ Suspenseful
+\*  Suspenseful
 
 
 
-→ In colonial Connecticut, 16-year-old Kit is lonely... and her only friend, Hannah, is suspected of being a witch.
+\*  In colonial Connecticut, 16-year-old Kit is lonely... and her only friend, Hannah, is suspected of being a witch.
 
 
 
@@ -86,15 +86,15 @@ Linda Sue Park
 
 
 
-→ World history
+\*  World history
 
 
 
-→ Cuts deep
+\*  Cuts deep
 
 
 
-→An orphan in 12th-century Korea works for a strict but brilliant pottery master who is seeking a royal commission. A sad and subtle journey.
+\* An orphan in 12th-century Korea works for a strict but brilliant pottery master who is seeking a royal commission. A sad and subtle journey.
 
 
 
@@ -102,13 +102,13 @@ MY SIDE OF THE MOUNTAIN Jean Craighead George
 
 
 
-→ Nature adventure
+\*  Nature adventure
 
 
 
-→ Survival
+\*  Survival
 
 
 
-→ Sam runs away from home and sets up in a hollow tree in the Catskill Mountains. Now he just has to survive
+\*  Sam runs away from home and sets up in a hollow tree in the Catskill Mountains. Now he just has to survive
 

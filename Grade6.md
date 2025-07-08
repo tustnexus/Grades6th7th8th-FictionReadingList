@@ -2,31 +2,31 @@
 
 HOLES Lovis Sachar
 
-→Adventure comedy
+\* Adventure comedy
 
-→ Hole-arious!
+\* Hole-arious!
 
-→ An unusual juvenile detention camp makes kids go into the desert and dig holes all day to teach them a lesson.... Seems useless, but one of them realizes that they're really digging for treasure!
+\* An unusual juvenile detention camp makes kids go into the desert and dig holes all day to teach them a lesson.... Seems useless, but one of them realizes that they're really digging for treasure!
 
 ECHO
 
 Pam Muñoz Ryan
 
-→ Multilayered drama
+\* Multilayered drama
 
-→Powerful
+\* Powerful
 
-→Five stories link characters across two continents and show how music can overcome great fear and prejudice.
+\* Five stories link characters across two continents and show how music can overcome great fear and prejudice.
 
 THE CITY OF EMBER Jeanne DuPrau
 
 THE WEE FREE MEN Terry Pratchett
 
-→Funny fantasy
+\* Funny fantasy
 
-→Head-buttingly awesome
+\* Head-buttingly awesome
 
-→A witch-in-training has to protect her home from the monsters of Fairyland with nothing but a frying pan and the help of a zany bunch of six-Inch-tall blue wild men.
+\* A witch-in-training has to protect her home from the monsters of Fairyland with nothing but a frying pan and the help of a zany bunch of six-Inch-tall blue wild men.
 
 THE WEE
 
@@ -34,44 +34,45 @@ FREE MEN
 
 Terry Pratchett
 
-→Adventure comedy
+\* Adventure comedy
 
 Hole-arious!
 
 An unusual juvenile detention camp makes kids go into the desert and dig holes all day to teach them a lesson.... Seems useless, but one of them realizes that they're really digging for treasure!
 
-→ Multilayered drama
+\* Multilayered drama
 
-→Powerful
+\* Powerful
 
-→Five stories link characters across two continents and show how music can overcome great fear and prejudice.
+\* Five stories link characters across two continents and show how music can overcome great fear and prejudice.
 
-→Funny fantasy
+\* Funny fantasy
 
-→Head-buttingly awesome
+\* Head-buttingly awesome
 
-→A witch-in-training has to protect her home from the monsters of Fairyland with nothing but a frying pan and the help of a zany bunch of six-Inch-tall blue wild men.
+\* A witch-in-training has to protect her home from the monsters of Fairyland with nothing but a frying pan and the help of a zany bunch of six-Inch-tall blue wild men.
 
 THE CITY OF EMBER Jeanne DuPrau
 
-→Science fiction
+\* Science fiction
 
-→ Underground mystery
+\* Underground mystery
 
-→The underground city of Ember is the last home of all humans... but it's slowly running out of power. Lina bears a secret The secret might save everyone. Or It might ruin everything.
+\* The underground city of Ember is the last home of all humans... but it's slowly running out of power. Lina bears a secret The secret might save everyone. Or It might ruin everything.
 
 ARU SHAH AND THE END OF TIME Roshani Chokshi
 
-→Fantasy series
+\* Fantasy series
 
-→Courageous
+\* Courageous
 
-→When 12-year-old Aru Shah accidentally wakes an ancient demon, she must team up with the legendary Pandava brothers and travel to the Kingdom of Death to stop the god of destruction.
+\* When 12-year-old Aru Shah accidentally wakes an ancient demon, she must team up with the legendary Pandava brothers and travel to the Kingdom of Death to stop the god of destruction.
 
 OTHER WORDS FOR HOME Jasmine Warga
 
-→Novel in verse
+\* Novel in verse
 
-→Hopeful
+\* Hopeful
 
-→The story of Jude, who moves from Syria to the United States during a civil war, leaving behind everything she's ever known. Finding yourself is hard enough for a teenager, but finding yourself in an unfamiliar country, where sometimes it feels like you're not welcome, is even harder.
+\* The story of Jude, who moves from Syria to the United States during a civil war, leaving behind everything she's ever known. Finding yourself is hard enough for a teenager, but finding yourself in an unfamiliar country, where sometimes it feels like you're not welcome, is even harder.
+

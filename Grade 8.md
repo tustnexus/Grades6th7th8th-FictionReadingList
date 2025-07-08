@@ -14,15 +14,15 @@ Nancy Farmer
 
 
 
-→ Science fiction
+\* Science fiction
 
 
 
-→ Future tense
+\* Future tense
 
 
 
-→ Matt is the genetic clone of a drug lord. He lives in a compound where everybody hates him, and he has no idea why he was made.
+\* Matt is the genetic clone of a drug lord. He lives in a compound where everybody hates him, and he has no idea why he was made.
 
 
 
@@ -34,15 +34,15 @@ Megan Whalen Turner
 
 
 
-→ Fantasy
+\* Fantasy
 
 
 
-→ Heart theft
+\* Heart theft
 
 
 
-→ A thief is hired by a magus to steal a jewel. The thief is clever. The magus is murderous. The story is unforgettable.
+\* A thief is hired by a magus to steal a jewel. The thief is clever. The magus is murderous. The story is unforgettable.
 
 
 
@@ -54,15 +54,15 @@ Kwame Alexander
 
 
 
-→ Sports
+\* Sports
 
 
 
-→ Sizzling
+\* Sizzling
 
 
 
-→ Lyrical all-star basketball story told in poetry about a baller named Filthy McNasty. Read it out loud.
+\* Lyrical all-star basketball story told in poetry about a baller named Filthy McNasty. Read it out loud.
 
 
 
@@ -74,15 +74,15 @@ Ruta Sepetys
 
 
 
-→Historical fiction.
+\* Historical fiction.
 
 
 
-→ Revolutionary
+\* Revolutionary
 
 
 
-→A heartbreaking historical thriller. When Romania's secret police attempt to blackmail Cristian Florescu into becoming an informer. he must make a choice: betray everyone he knows and loves, or go up against a terrifying communist dictator-all by himself!
+\* A heartbreaking historical thriller. When Romania's secret police attempt to blackmail Cristian Florescu into becoming an informer. he must make a choice: betray everyone he knows and loves, or go up against a terrifying communist dictator-all by himself!
 
 
 
@@ -94,15 +94,15 @@ J. R. R. Tolkien
 
 
 
-→ Fantasy
+\* Fantasy
 
 
 
-→Way better than the movie!
+\* Way better than the movie!
 
 
 
-→Bilbo is a comfort-loving homebody until a wizard shows up at his door and whisks him off on an adventure full of hungry trolls, murky forests, magic rings, and dragon's gold.
+\* Bilbo is a comfort-loving homebody until a wizard shows up at his door and whisks him off on an adventure full of hungry trolls, murky forests, magic rings, and dragon's gold.
 
 
 
@@ -114,13 +114,13 @@ Neal Shusterman
 
 
 
-→ Fantasy
+\* Fantasy
 
 
 
-→Life-giving-or not!
+\* Life-giving-or not!
 
 
 
-→ The Scythedom is adding two more Scythes to the team. Are these two teens ready for the job of bringing death?
+\* The Scythedom is adding two more Scythes to the team. Are these two teens ready for the job of bringing death?
 
