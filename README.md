@@ -7,7 +7,7 @@ This project is designed to help educators, students, and researchers access str
 
 ---
 
-## 📚 Purpose
+## Purpose
 
 To provide **short summaries** (within \~100 words) of well-known middle-grade fiction books, organized by grade level (6th–8th). These summaries can be used as a resource for:
 
@@ -18,7 +18,7 @@ To provide **short summaries** (within \~100 words) of well-known middle-grade f
 
 ---
 
-## ⚖️ Disclaimer on Copyright and Fair Use
+## Disclaimer on Copyright and Fair Use
 
 This repository **does not contain any copyrighted material** from the original books (no full text, excerpts, or scans). All content is:
 
@@ -30,17 +30,18 @@ If you are a rights holder and have concerns, please feel free to open an issue 
 
 ---
 
-## ✅ Structure (Planned)
+## Structure (Planned)
 
 * Each book will have:
 
   * Title and author
   * \~100-word narrative-style summary (in plain English)
+  * Meta data: 3 brief blurbs and 1 brief plot summary
   * Optional metadata: genre, themes, and grade level
 
 ---
 
-## 🔖 Sample Summaries (Grade 6)
+## Sample Summaries (Grade 6)
 
 ### **Holes** by *Louis Sachar*
 
@@ -58,24 +59,38 @@ There once lived a young German boy named Friedrich, who stumbled upon a peculia
 
 Young Tiffany Aching, a shepherd's daughter in the quiet hills of the Chalk, had an uncommon gift for seeing what others could not. When her baby brother is stolen by the Queen of the Fairies, Tiffany boldly sets out to rescue him. She’s joined by the Nac Mac Feegle—tiny, fierce, blue-skinned warriors with thick Scottish accents and a talent for chaos. Armed only with her frying pan and common sense, Tiffany enters the dangerous realm of Fairyland, determined to outwit the Queen and bring her brother home.
 
----
+## Directory Structure
 
-## 📅 Coming Soon
+Grades6th7th8th-FictionReadingList/
+│
+├── README.md            ← Visible by default on GitHub
+├── CONTRIBUTING.md      ← Triggered during PR/issue creation
+├── grade6/
+│   └── summaries.yaml
+├── grade7/
+│   └── summaries.yaml
+├── grade8/
+│   └── summaries.yaml
+├── data/
+│   └── export.json      ← Optional: for ML/research formats
+└── LICENSE              ← Recommend a CC BY-NC 4.0 license
 
-* Additional summaries from 7th and 8th grade lists
-* JSON and CSV exports for dataset use
-* Optional genre and theme tags
+
+## ✅ Coming Soon
+
+* Additional summaries from 7th and 8th grade lists in .md text format
+* JSON export for dataset use
 * Light metadata for educators and data scientists
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-If you'd like to help write summaries or add books (especially public domain titles), feel free to open a PR. Please keep summaries original and under 150 words.
+If you'd like to help write summaries or add books (especially public domain titles), feel free to open a PR. Please keep summaries original and under 150 words. Look at other educational repos such as 
 
 ---
 
-## 📨 License
+## License
 
 This project is under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 Please credit appropriately and do not use for commercial purposes.
