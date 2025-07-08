@@ -34,7 +34,7 @@ year_published: 2009
 summary: >
   (100–150 word summary here)
 
-**## Get Inspired**
+## Get Inspired
 Browse these similar projects to see good formatting and tone:
 
 book-summaries
@@ -43,7 +43,7 @@ Reading-List
 
 reading-list (JSON)
 
-**## Legal & Respect**
+## Legal & Respect
 All content must be original, non-commercial, and educational. Do not upload copyrighted material.
 
 If you're a rights holder and wish to request a change or removal, please open an issue or contact the maintainer directly.
