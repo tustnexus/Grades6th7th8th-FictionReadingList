@@ -3,7 +3,8 @@
 ````markdown
 # Contributing to Grades6th7th8th-FictionReadingList
 
-Thank you for your interest in contributing! This project creates **original summaries** of middle-grade fiction to support educators, students, and researchers—without reproducing copyrighted content.
+Thank you for your interest in contributing!
+This project creates **original summaries** of middle-grade fiction to support educators, students, and researchers—without reproducing copyrighted content.
 
 ---
 
