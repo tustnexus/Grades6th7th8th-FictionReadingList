@@ -9,11 +9,6 @@ THE HOUSE OF THE SCORPION
 Nancy Farmer
 
 
-
-​
-
-
-
 \* Science fiction
 
 
