@@ -62,18 +62,17 @@ Young Tiffany Aching, a shepherd's daughter in the quiet hills of the Chalk, had
 ## Directory Structure
 
 Grades6th7th8th-FictionReadingList/
-│
-├── README.md            ← Visible by default on GitHub
-├── CONTRIBUTING.md      ← Triggered during PR/issue creation
-├── grade6/
+README.md            ← Visible by default on GitHub
+──CONTRIBUTING.md      ← Triggered during PR/issue creation
+grade6/
 │   └── summaries.yaml
-├── grade7/
+grade7/
 │   └── summaries.yaml
-├── grade8/
+grade8/
 │   └── summaries.yaml
-├── data/
+data/
 │   └── export.json      ← Optional: for ML/research formats
-└── LICENSE              ← Recommend a CC BY-NC 4.0 license
+LICENSE              ← Recommend a CC BY-NC 4.0 license
 
 
 ## ✅ Coming Soon
