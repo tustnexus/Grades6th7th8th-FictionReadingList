@@ -38,7 +38,7 @@ What happens when you're the only Chinese American student at your new school? W
 
 
 
-ENDER'S GANE
+ENDER'S GAME
 
 
 
