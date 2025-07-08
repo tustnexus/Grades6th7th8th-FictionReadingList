@@ -15,10 +15,10 @@ This project is designed to help educators, students, and researchers access str
 
 To provide **short summaries** (within \~100 words) of well-known middle-grade fiction books, organized by grade level (6th–8th). These summaries can be used as a resource for:
 
-* Fiction analysis datasets
-* Vocabulary scaffolding
-* Genre comparison tasks
-* Teaching narrative structure
+* Mid-Grade Fiction classification/analysis datasets
+* Teachers
+* Parents
+* Mid-Grade readers
 
 ---
 
