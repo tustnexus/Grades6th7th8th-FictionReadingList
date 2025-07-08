@@ -1,3 +1,6 @@
+
+
+````markdown
 # Contributing to Grades6th7th8th-FictionReadingList
 
 Thank you for your interest in contributing! This project creates **original summaries** of middle-grade fiction to support educators, students, and researchers—without reproducing copyrighted content.
@@ -16,36 +19,47 @@ Thank you for your interest in contributing! This project creates **original sum
 ## Summary Guidelines
 
 - Write in your **own words**
-- Avoid spoilers unless noted
+- Avoid spoilers unless clearly noted
 - Use a simple, story-style tone appropriate for middle-grade reading
 - No direct quotes or scans from original texts
 
 ---
 
-## yaml Metadata Template (Optional)
+## YAML Metadata Template (Optional)
 
+```yaml
 title: Book Title
 author: Author Name
 grade_level: 7
 genre: Historical fiction
 themes: Friendship, resilience
 year_published: 2009
-summary:   (100–150 word summary here)
+summary: >
+  (100–150 word summary here)
+````
 
 ---
+
 ## Get Inspired
+
 Browse these similar projects to see good formatting and tone:
 
-book-summaries
-
-Reading-List
-
-reading-list (JSON)
+* [book-summaries](https://github.com/AustinT/book-summaries)
+* [Reading-List](https://github.com/compsecmonkey/Reading-List)
+* [reading-list (JSON)](https://github.com/alexpeterhall/reading-list)
 
 ---
+
 ## Legal & Respect
-All content must be original, non-commercial, and educational. Do not upload copyrighted material.
+
+All content must be **original**, **non-commercial**, and **educational**.
+Do **not upload copyrighted material**.
 
 If you're a rights holder and wish to request a change or removal, please open an issue or contact the maintainer directly.
 
+---
+
 Thanks again for helping build a thoughtful fiction resource!
+
+```
+
