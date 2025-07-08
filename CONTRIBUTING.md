@@ -22,9 +22,8 @@ Thank you for your interest in contributing! This project creates **original sum
 
 ---
 
-## Metadata Template (Optional)
+## yaml Metadata Template (Optional)
 
-```yaml
 title: Book Title
 author: Author Name
 grade_level: 7
@@ -33,6 +32,7 @@ themes: Friendship, resilience
 year_published: 2009
 summary:   (100–150 word summary here)
 
+---
 ## Get Inspired
 Browse these similar projects to see good formatting and tone:
 
@@ -42,6 +42,7 @@ Reading-List
 
 reading-list (JSON)
 
+---
 ## Legal & Respect
 All content must be original, non-commercial, and educational. Do not upload copyrighted material.
 
