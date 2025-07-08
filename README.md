@@ -1,7 +1,3 @@
-Here's an improved and more structured version of your `README.md`, with clear disclaimers, better formatting, and consistency of tone—while still being inviting to readers and researchers alike:
-
----
-
 # Grades6th7th8th-FictionReadingList
 
 A curated fiction reading list based on middle-grade English curriculum books, particularly those referenced in
@@ -84,9 +80,6 @@ If you'd like to help write summaries or add books (especially public domain tit
 This project is under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 Please credit appropriately and do not use for commercial purposes.
 
----
-
-Would you like a separate `CONTRIBUTING.md` or a `data/` folder structure suggestion next?
 
 
 
