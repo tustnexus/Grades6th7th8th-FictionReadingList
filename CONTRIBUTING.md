@@ -51,7 +51,7 @@ Here's the YAML-formatted output for just the **Grade 6** books:
     - Juvenile detention
   plot_summary: >
      (100–150 word summary here)
-
+````
 
 ## Get Inspired
 
