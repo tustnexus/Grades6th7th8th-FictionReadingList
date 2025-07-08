@@ -1,6 +1,3 @@
-
-
-````markdown
 # Contributing to Grades6th7th8th-FictionReadingList
 
 Thank you for your interest in contributing!
